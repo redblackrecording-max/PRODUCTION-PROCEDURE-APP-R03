@@ -1,0 +1,29 @@
+FILE_LIST_v15.txt	805 bytes
+QA_CHECKS_v15.txt	787 bytes
+README_UPLOAD_ROOT_ONLY.txt	1494 bytes
+SBX_Pre_Testing_SOP_R01.docx	325855 bytes
+Shipping_and_Receiving_SOP_R01.pdf	2498115 bytes
+auth.js	178 bytes
+chassis_clickable_sop_dashboard.html	6859257 bytes
+company_policy_employee_forms.html	1281 bytes
+config.js	235 bytes
+conveyor_placeholder.html	1315 bytes
+dashboard-wizard-vibrant.webp	254574 bytes
+index.html	1209197 bytes
+inventory_value_stream.html	1591236 bytes
+manifest.json	417 bytes
+pretesting_clickable_sop_dashboard.html	2775376 bytes
+prod_team_weekly_schedule.html	1261 bytes
+scanner_main_assembly_clickable_sop_dashboard.html	7554419 bytes
+service-worker.js	465 bytes
+shipping_receiving_dashboard.html	732701 bytes
+staticwebapp.config.json	294 bytes
+tcg-app-icon.png	29340 bytes
+tcg-cogs-branding.png	54307 bytes
+tcg-logo-transparent.png	55851 bytes
+testing_dashboard.html	1915978 bytes
+- scanner_sub_assemblies.html
+- chassis_sub_assemblies.html
+- conveyor_sub_assemblies.html
+- future_sop_placeholder.html
+- password-success-judo.mp3

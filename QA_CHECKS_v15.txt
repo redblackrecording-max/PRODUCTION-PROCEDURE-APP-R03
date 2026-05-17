@@ -1,0 +1,22 @@
+QA CHECKS — v15
+index.html title present: YES
+index.html is actual dashboard plus passcode overlay: YES
+main dashboard images embedded in index.html: YES
+audio tags in index.html: 0
+mp3 references in index.html: 0
+speech synthesis references in index.html: 0
+audio-buttons.js included: False
+mp3 files included: NONE
+broken local references found: 0
+required pages included:
+ - inventory_value_stream.html: YES
+ - pretesting_clickable_sop_dashboard.html: YES
+ - shipping_receiving_dashboard.html: YES
+ - testing_dashboard.html: YES
+ - scanner_main_assembly_clickable_sop_dashboard.html: YES
+ - chassis_clickable_sop_dashboard.html: YES
+ - conveyor_placeholder.html: YES
+ - prod_team_weekly_schedule.html: YES
+ - company_policy_employee_forms.html: YES
+ - config.js: YES
+ - auth.js: YES
